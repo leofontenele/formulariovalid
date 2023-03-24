@@ -1,0 +1,31 @@
+h1 { 
+    padding-top: 5px;
+}
+.fluid-container { 
+    padding-top: 20px;
+}
+label { 
+
+margin-bottom: 15px;
+margin-top: 40px;
+}
+input {
+margin: 5px 5px;
+}
+.col-6 { 
+border-radius: 21px 21px double black;
+}
+.formcont { 
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+justify-content: center;
+text-align: center;
+background: rgba(7, 71, 99, 0.52);
+border-radius: 16px;
+box-shadow: 5px 4px 30px rgba(0, 0, 0, 0.998);
+backdrop-filter: blur(19.4px);
+-webkit-backdrop-filter: blur(19.4px);
+border: 1px solid rgba(7, 71, 99, 0.93);
+}
+#enviar { 
+margin-bottom: 20px;
+}
